@@ -2,7 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-main() {
-	int a[10];
-	return 0;
+main()
+{
+    int a[10], sum;
+    return 0;
 }
