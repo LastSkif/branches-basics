@@ -9,6 +9,6 @@ main()
         scanf("%d", a[i]);
         sum += a[i];
     }
-
+    printf("%d", sum);
     return 0;
 }
